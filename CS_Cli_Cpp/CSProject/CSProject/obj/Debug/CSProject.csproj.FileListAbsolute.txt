@@ -1,0 +1,6 @@
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\萝卜\Documents\Visual Studio 2008\Projects\CSProject\CSProject\bin\Debug\CliDll.pdb
